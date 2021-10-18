@@ -1,5 +1,7 @@
 # programming-helper for java
 
+##REQUIRES pyperclip.py
+
 given:
 ```
 private long Id;
