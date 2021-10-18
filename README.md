@@ -2,10 +2,12 @@
 
 given:
 private long Id;
+
 private String name;
+
 private String gender;
 
-#constructor
+constructor
 to generate a constructor which will return 
 
 (long Id, String name, String gender) {
