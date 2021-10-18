@@ -2,6 +2,14 @@
 
 ##### REQUIRES pyperclip.py
 
+
+how to use:
+```
+1.) ctrl + c the variables
+2) run the method()
+3) ctrl + v
+```
+
 given:
 ```
 private long Id;
