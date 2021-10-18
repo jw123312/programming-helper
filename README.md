@@ -1,11 +1,16 @@
 # programming-helper
 
 given:
+
 private long Id;
 
 private String name;
 
 private String gender;
+
+
+
+
 
 constructor
 to generate a constructor which will return 
